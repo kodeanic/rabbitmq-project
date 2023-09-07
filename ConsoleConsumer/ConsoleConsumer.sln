@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderConsumer", "OrderConsumer\OrderConsumer.csproj", "{478F17F3-9075-4025-A4A6-F5BC23ABDC74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ErrorConsumer", "ErrorConsumer\ErrorConsumer.csproj", "{42D2A8A5-8AC2-438B-BE52-BB362594AC4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{478F17F3-9075-4025-A4A6-F5BC23ABDC74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{478F17F3-9075-4025-A4A6-F5BC23ABDC74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{478F17F3-9075-4025-A4A6-F5BC23ABDC74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{478F17F3-9075-4025-A4A6-F5BC23ABDC74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42D2A8A5-8AC2-438B-BE52-BB362594AC4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42D2A8A5-8AC2-438B-BE52-BB362594AC4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42D2A8A5-8AC2-438B-BE52-BB362594AC4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42D2A8A5-8AC2-438B-BE52-BB362594AC4F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
